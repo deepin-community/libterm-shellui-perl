@@ -1,0 +1,2 @@
+version=4
+https://metacpan.org/dist/Term-ShellUI .*/Term-ShellUI-?(\d[\d.-]+)\.tar\.gz$
